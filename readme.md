@@ -19,9 +19,6 @@
 
 * **Title**: A beginner's guide to kubernetes
 
-* **Link to Register**: [https://community.cncf.io/events/details/cncf-cloud-native-gandhinagar-presents-cloud-native-gandhinagar-kick-start-meetup/](https://community.cncf.io/events/details/cncf-cloud-native-gandhinagar-presents-cloud-native-gandhinagar-kick-start-meetup/)
-
-
 ### Meetup Details 
 
 * [Link to Register](https://community.cncf.io/events/details/cncf-cloud-native-gandhinagar-presents-cloud-native-gandhinagar-kick-start-meetup/)
