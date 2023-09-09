@@ -1,4 +1,4 @@
-![CNCG Gandhinagar Meetup - Sept'23](./Images/event-cover.jpeg))
+![CNCG Gandhinagar Meetup - Sept'23](./Images/event-cover.jpeg)
 
 [![](https://img.shields.io/badge/Mehul-Patel-brightgreen.svg?colorB=00ff00)](https://www.nomadicmehul.com)
 [![GitHub Mehul Patel](https://img.shields.io/github/followers/nomadicmehul?label=follow&style=social)](https://github.com/nomadicmehul)
@@ -13,11 +13,11 @@
 
 #### Speaker 1 : [Mehul Patel](https://twitter.com/NomadicMehul)
 
-* **Title**: 𝐀𝐜𝐭𝐢𝐨𝐧𝐚𝐛𝐥𝐞 𝐓𝐢𝐩𝐬 𝐭𝐨 𝐊𝐢𝐜𝐤𝐬𝐭𝐚𝐫𝐭 𝐘𝐨𝐮𝐫 𝐎𝐩𝐞𝐧 𝐒𝐨𝐮𝐫𝐜𝐞  𝐏𝐫𝐨𝐣𝐞𝐜𝐭
+* **Title**: 4 Actionable Tips to Kickstart Your Open-Source Project
 
-#### Speaker 2 : 𝐃𝐢𝐬𝐡𝐚𝐧𝐭 𝐌𝐚𝐤𝐰𝐚𝐧𝐚
+#### Speaker 2 : Dishant Makwana
 
-* **Title**: 
+* **Title**: A beginner's guide to kubernetes
 
 * **Link to Register**: [https://community.cncf.io/events/details/cncf-cloud-native-gandhinagar-presents-cloud-native-gandhinagar-kick-start-meetup/](https://community.cncf.io/events/details/cncf-cloud-native-gandhinagar-presents-cloud-native-gandhinagar-kick-start-meetup/)
 
@@ -26,7 +26,7 @@
 
 * 🗓️ Date: 10th Sept'23
 * ⏰ Time: 10:00 AM - 02:00 PM
-* 🏢 Venue: BOSC Tech Labs Private Limited,𝐆𝐚𝐧𝐝𝐡𝐢𝐧𝐚𝐠𝐚𝐫
+* 🏢 Venue: BOSC Tech Labs Private Limited, Gandhinagar
 
 
 ![](./Images/speaker-cover.jpeg)
