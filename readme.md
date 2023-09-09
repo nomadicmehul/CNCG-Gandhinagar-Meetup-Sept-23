@@ -24,6 +24,7 @@
 
 ### Meetup Details 
 
+* [Link to Register](https://community.cncf.io/events/details/cncf-cloud-native-gandhinagar-presents-cloud-native-gandhinagar-kick-start-meetup/)
 * 🗓️ Date: 10th Sept'23
 * ⏰ Time: 10:00 AM - 02:00 PM
 * 🏢 Venue: BOSC Tech Labs Private Limited, Gandhinagar
