@@ -60,6 +60,30 @@ Thank you for sharing your learnings with us!
 
 <!-- TOC -->
 
+# Introduction-to-kubernetes
+[This presentation](Introduction-to-kubernetes/presentation/introduction_to_Kubernetes.pptx) is taken from [Introduction to Kubernetes](https://docs.google.com/presentation/d/1zrfVlE5r61ZNQrmXKx5gJmBcXnoa_WerHEnTxu5SMco) by **Bob Killen** and **Jeffrey Sica**.
+
+## Requirements
+
+- [Docker](https://docs.docker.com/engine/install/)
+- [Minikube](https://minikube.sigs.k8s.io/docs/start/)
+- [kubectl](https://kubernetes.io/docs/tasks/tools/)
+
+OR
+
+Use Cloud Shell in [Google Cloud Console](console.cloud.google.com) . Cloud Shell comes with the required tools pre-installed.
+
+### To start minikube
+    minikube start
+
+### To access the kubernetes dashboard
+    minikube dashboard
+
+### To apply resources from kubernetes-examples folder
+    kubectl apply -f file-name.yaml
+
+<!-- TOC -->
+
 ## What next ? 
 
 Don't forget to check out our project "[CloudCaptain](https://github.com/nomadicmehul/CloudCaptain)" and get all things cloud-related!  
