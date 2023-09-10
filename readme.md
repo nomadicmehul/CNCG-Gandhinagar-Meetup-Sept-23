@@ -17,7 +17,7 @@
 
 #### Speaker 2 : Dishant Makwana
 
-* **Title**: A beginner's guide to kubernetes
+* **Title**: [A beginner's guide to kubernetes](./Introduction-to-kubernetes/)
 
 ### Meetup Details 
 
